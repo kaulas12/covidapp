@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+
+.container{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 100px;
+
+  grid-column-start: span 3;
+
+
+
+
+
+
+}
+
+h1{
+    font-family: "Monotype Corsiva";
+    font-style: italic;
+   font-size: 4.5em;
+   letter-spacing: -1px;
+   background-color: ;
+   color: white;
+
+
+   }
